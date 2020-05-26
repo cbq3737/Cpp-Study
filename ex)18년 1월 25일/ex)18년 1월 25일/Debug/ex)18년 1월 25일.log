@@ -1,0 +1,65 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): error C2672: 'operator __surrogate_func': 일치하는 오버로드된 함수가 없습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(939): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,Point&,Point&>(std::less<void>&,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Pr=std::less<void>,
+              _Ty1=Point &,
+              _Ty2=Point &
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2882): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=Point *,
+              _Pr=std::less<void>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2913): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Sort_unchecked1<_RanIt,int,_Pr>(_RanIt,_RanIt,_Diff,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=Point *,
+              _Pr=std::less<void>,
+              _Diff=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2921): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Sort_unchecked<Point*,_Pr>(_RanIt,_RanIt,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Pr=std::less<void>,
+              _RanIt=Point *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2928): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::sort<_RanIt,std::less<void>>(_RanIt,_RanIt,_Pr)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Point>>>,
+              _Pr=std::less<void>
+          ]
+  c:\users\user\desktop\씨언어\ex)18년 1월 25일\ex)18년 1월 25일\main.cpp(41): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(_RanIt,_RanIt)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=Point,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Point>>>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): error C2893: 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): note: '_Ty1=Point &'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): note: '_Ty2=Point &'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\xutility(942): error C2056: 식이 잘못되었습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2787): error C2672: 'operator __surrogate_func': 일치하는 오버로드된 함수가 없습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2787): error C2893: 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2787): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2787): note: '_Ty1=Point &'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2787): note: '_Ty2=Point &'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2794): error C2672: 'operator __surrogate_func': 일치하는 오버로드된 함수가 없습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2794): error C2893: 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2794): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2794): note: '_Ty1=Point &'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2794): note: '_Ty2=Point &'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2809): error C2672: 'operator __surrogate_func': 일치하는 오버로드된 함수가 없습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2809): error C2893: 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2809): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2809): note: '_Ty1=Point &'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2809): note: '_Ty2=Point &'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2829): error C2672: 'operator __surrogate_func': 일치하는 오버로드된 함수가 없습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2829): error C2893: 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const' 함수 템플릿을 특수화하지 못했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2829): note: 다음 템플릿 인수 사용:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2829): note: '_Ty1=Point &'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\algorithm(2829): note: '_Ty2=Point &'

@@ -1,0 +1,76 @@
+﻿  main.cpp
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(16): error C2039: 'key': 'Hash'의 멤버가 아닙니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(6): note: 'Hash' 선언을 참조하십시오.
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(16): error C2660: 'Hashfunction': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(17): error C2228: '.push_back' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(17): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(17): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): error C2228: '.begin' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): error C2228: '.end' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(25): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): error C2228: '.begin' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): error C2228: '.end' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(35): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): error C2228: '.begin' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): error C2228: '.end' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): error C2672: 'std::find': 일치하는 오버로드된 함수가 없습니다.
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(47): error C2780: '_InIt std::find(_InIt,_InIt,const _Ty &)': 인수가 3개 있어야 하는데 2개를 사용했습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xutility(3499): note: 'std::find' 선언을 참조하십시오.
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(48): error C2228: '.end' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(48): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(48): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(50): error C2228: '.erase' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(50): note: 'std::list<int,std::allocator<_Ty>> *' 형식입니다.
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(50): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(56): error C3863: 배열 형식 'std::list<int,std::allocator<_Ty>> *[10]'은(는) 할당할 수 없습니다.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\it학부\desktop\ex) 18년 2월 9일\ex) 18년 2월 9일\main.cpp(60): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.

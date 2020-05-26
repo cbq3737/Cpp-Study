@@ -1,0 +1,59 @@
+﻿  InitArray.cpp
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(6): error C2011: 'IntArray': 'struct' 형식 재정의
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(16): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(16): error C2228: '.capacity' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(16): error C2059: 구문 오류: ')'
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(17): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(19): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(20): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(22): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2947: template-argument-list을(를) 끝내려면 '>' 기호가 있어야 하는데 '<'이(가) 있습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2146: 구문 오류: ')'이(가) 'ia' 식별자 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2065: 'i': 선언되지 않은 식별자입니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(24): error C2059: 구문 오류: ')'
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(26): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(26): error C2065: 'i': 선언되지 않은 식별자입니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(26): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(26): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(35): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(35): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(37): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(37): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(40): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(40): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(50): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(50): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(52): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(52): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(54): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(54): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(56): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(56): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(58): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(58): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(66): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(66): error C2228: '.capacity' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(67): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(67): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(68): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(68): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(72): error C2027: 정의되지 않은 형식 'IntArray'을(를) 사용했습니다.
+  d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\intarray.h(3): note: 'IntArray' 선언을 참조하십시오.
+d:\projects\c언어\ex) 18년 1월 16일\intintarrayarray.app\initarray.cpp(72): error C2228: '.dArray' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.

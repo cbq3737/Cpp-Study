@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(11): error C2228: '.x' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(11): note: 'Point *const ' 형식입니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(11): note: 대신 '->'을(를) 사용하려고 했습니까?
+d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(12): error C2228: '.y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(12): note: 'Point *const ' 형식입니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(12): note: 대신 '->'을(를) 사용하려고 했습니까?
+d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): error C2228: '.x' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): note: 'Point *const ' 형식입니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): note: 대신 '->'을(를) 사용하려고 했습니까?
+d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): error C2228: '.y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): note: 'Point *const ' 형식입니다.
+  d:\projects\c언어\ex 18년 1월 15일\ex 18년 1월 15일 c++\ex 18년 1월 15일 c++\main.cpp(16): note: 대신 '->'을(를) 사용하려고 했습니까?
